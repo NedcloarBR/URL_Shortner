@@ -11,15 +11,15 @@
 
 ### TODO
 
-- [] Backend API
-  - Shortner Module
+- [ ] Backend API
+  - [x] Shortner Module
     - [x] Create a short link with a hash
     - [x] Redirect using generated hash
-  - [] Auth
-    - [] Google
-    - [] X (Twitter)
-    - [] Discord
-- [] Frontend
+  - [ ] Auth Module
+    - [ ] Google
+    - [ ] X (Twitter)
+    - [ ] Discord
+- [ ] Frontend
 
 #
 
