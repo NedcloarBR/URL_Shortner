@@ -1,0 +1,15 @@
+
+POST http://localhost:4444/api/shortUrl
+Content-Type: application/json
+
+{
+  "url": "https://www.github.com/NedcloarBR/"
+}
+
+###
+
+GET http://localhost:4444/api/shortUrl
+
+###
+
+GET http://localhost:4444/api/shortUrl/:hash

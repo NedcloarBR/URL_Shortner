@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  url_database:
+    image: bitnami/postgresql:latest
+    container_name: url_database
+    restart: always
+    tty: true
+    ports:
+      - "5432:5432"
+    volumes:
+      - .docker/database/postgres/development:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
