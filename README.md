@@ -19,6 +19,7 @@
     - [ ] Google
     - [ ] X (Twitter)
     - [ ] Discord
+  - [ ] [Swagger](https://swagger.io/) [Docs](https://docs.nestjs.com/recipes/swagger)
 - [ ] Frontend
 
 #
