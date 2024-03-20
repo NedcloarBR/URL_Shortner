@@ -19,7 +19,7 @@
     - [ ] Google
     - [ ] X (Twitter)
     - [ ] Discord
-  - [ ] [Swagger](https://swagger.io/) [Docs](https://docs.nestjs.com/recipes/swagger)
+  - [x] [Swagger](https://swagger.io/) [Docs](https://docs.nestjs.com/recipes/swagger)
   - [ ] Jest Unit and E2E Tests
   - [ ] Better database checks in routes
   - [ ] Error/Exception Interceptors
